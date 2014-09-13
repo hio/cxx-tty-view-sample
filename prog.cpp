@@ -2,7 +2,6 @@
 #include <cstring>
 #include <cwchar>
 
-#include <deque>
 #include <iomanip>
 #include <iostream>
 #include <sstream>
@@ -17,7 +16,6 @@
 
 using std::cerr;
 using std::endl;
-using std::deque;
 using std::string;
 using std::vector;
 using std::perror;
